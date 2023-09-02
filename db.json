@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Olive Hand",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Modern Granite Mouse",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Wooden Shoes",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/N6ODR/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/madm9klsRg/640/480",
+      "id": 2
+    }
+  ]
+}
